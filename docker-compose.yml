@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  readspace:
+    image: readspace
+    container_name: readspace
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - GCP_CREDENTIALS=/tmp/gcp_keys.json
+      - SPREADSHEET_ID=longspreadsheetid [This is the id of the spreadsheet you want to read, please change it to your own id]
+      - TELEGRAM_BOT_TOKEN=yourtelegrambottoken [This is the token of the telegram bot you want to use, please change it to your own token]
+    volumes:
+      - [Here goes your GCP credentials file, please define your own path]:/tmp/gcp_keys.json
