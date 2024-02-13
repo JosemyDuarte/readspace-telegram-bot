@@ -15,6 +15,8 @@ chat.
 
 Run `/help` to see the available commands. Watch the video below to see how to use the bot.
 
+https://github.com/JosemyDuarte/readspace-telegram-bot/assets/6247860/81e94478-99a3-4127-ada5-43acee9bee83
+
 ## Development
 
 - You need to have a Google Cloud Platform account and a project to run this bot.
