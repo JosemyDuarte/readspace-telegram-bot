@@ -7,6 +7,7 @@ chat.
 ## How to use
 
 1. Start a chat with the bot: [@OmniReadSpaceBot](https://t.me/OmniReadSpaceBot)
+    - Note that this bot will only reply if I have this service running, I can't guarantee I will 😅 But instructions are similar if you are running your own version.
 2. Send the command `/start` to the bot.
 3. The bot will ask you for your Omnivore API key. You can get it from your Omnivore account settings.
 4. The bot will ask you for the label of the highlights you want to receive.
