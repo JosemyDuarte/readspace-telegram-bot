@@ -1,5 +1,8 @@
 # ReadSpace - A Omnivore Telegram Bot
 
+[Omnivore shutdown](https://blog.omnivore.app/p/details-on-omnivore-shutting-down), this service doesn't work anymore.
+---
+
 This is a Telegram bot that sends highlights from [Omnivore](https://omnivore.app/) to users. Inspired
 by [Readwise](https://readwise.io/), this bot allows users to receive their highlights from Omnivore in their Telegram
 chat.
